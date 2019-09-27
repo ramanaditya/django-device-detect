@@ -1,1 +1,1 @@
-# django-user-agents
+# django-device-detect
